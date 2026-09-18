@@ -1,0 +1,7 @@
+ollama
+pyttsx3
+SpeechRecognition
+opencv-python
+mediapipe
+pyautogui
+pydantic
